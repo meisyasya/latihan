@@ -1,0 +1,18 @@
+#first-box{
+width: 100px;
+height: 100px;
+background-color: #badaba;
+position: static;
+}
+#second-box{
+    width: 100px;
+height: 100px;
+background-color: #9b59b6;
+position: relative;
+}
+#third-box{
+    width: 100px;
+    height: 100px;
+    background-color: hsl(120, 86%, 50%);
+    position: fixed;
+}
